@@ -116,6 +116,6 @@ contract MyContract is Ownable {
 }
 ```
 
-[Tìm hiểu thêm ép kiểu từ Contract sang Address](https://docs.soliditylang.org/en/latest/types.html#contract-types)
-[Tìm hiểu thêm về Contract](https://docs.soliditylang.org/en/latest/contracts.html#contracts)
+[Tìm hiểu thêm ép kiểu từ Contract sang Address](https://docs.soliditylang.org/en/latest/types.html#contract-types)<br>
 
+[Tìm hiểu thêm về Contract](https://docs.soliditylang.org/en/latest/contracts.html#contracts)
